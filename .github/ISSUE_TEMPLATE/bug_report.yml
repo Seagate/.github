@@ -1,5 +1,5 @@
 name: Bug report
-description: Report problems and issues with CORTX on Kubernetes
+description: Report problems and issues with CORTX 
 labels: [bug]
 
 body:
@@ -10,7 +10,7 @@ body:
 
         Thanks for taking the time to fill out this bug report!
 
-        Please only submit issues for problems you are experiencing. For general questions and support, start a new [Discussion](https://github.com/Seagate/cortx-k8s/discussions/new) instead.
+        Please only submit issues for problems you are experiencing. For general questions and support, start a new [Discussion](https://github.com/Seagate/cortx/discussions/new) instead.
 
   - type: textarea
     attributes:
