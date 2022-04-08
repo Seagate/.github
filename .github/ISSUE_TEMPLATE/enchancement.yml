@@ -1,0 +1,17 @@
+name: CORTX Feature Request 
+description: Use to request a new feature or improvement specific to this CORTX Componenent. Please check first to make sure this feature has not yet been requested.  
+labels: [enhancement]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: Please describe the feature/improvement you would like to see added. 
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Please explain why you think adding this feature/improvement is important. 
+    validations:
+      required: true
