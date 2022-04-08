@@ -1,5 +1,5 @@
 name: Bug report
-description: Report problems and issues with CORTX 
+description: Report problems and issues
 labels: [bug]
 
 body:
