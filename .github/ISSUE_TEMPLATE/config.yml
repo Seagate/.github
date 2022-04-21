@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Feature/improvement request for overall CORTX project
+  - name: Feature request for overall CORTX project
     url: https://github.com/Seagate/cortx/issues/new?assignees=&labels=enhancement&template=enhancement.yml
-    about: Want to suggest an idea for CORTX? Create a feature/improvement request.
-  - name: CORTX Questions and Support
+    about: Want to suggest an idea for the overall CORTX project? Create a feature/improvement request.
+  - name: CORTX community questions and support via GitHub Discussions
     url: https://github.com/Seagate/cortx/discussions
-    about: Have questions or need support for CORTX for anything that isn't a bug report? Go ahead and start a new discussion.
-  - name: CORTX Community Support
+    about: Have questions or need support for anything else? Please start a new discussion.
+  - name: CORTX community questions and support via Slack
     url: https://cortx.link/slack_invite
-    about: Join us on Slack for general CORTX questions and support.
+    about: Or please ask us on Slack.
